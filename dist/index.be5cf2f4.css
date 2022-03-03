@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: grey;
+}
+
+.App {
+    background-color: white;
+    padding: 10px;
+}
+
+.About {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+/*# sourceMappingURL=index.be5cf2f4.css.map */
